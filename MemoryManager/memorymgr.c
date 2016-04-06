@@ -1,5 +1,5 @@
 /**
- * @author Evan Otero
+ * author Evan Otero
  * March 18 2016
  * Memory manager for C
  */
