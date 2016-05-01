@@ -10,9 +10,6 @@ To use the code, you need to compile it with a test file:
 2. `cc memorymgr.c gc.c gctest.c -o gctest`
 
 _Garbage Collection only works for Linux_.
-<<<<<<< HEAD
 
 ##Pattern Search using Threads
 Pattern search finds the instance of a pattern string inside a text string.  Instead of having one thread process the entire array, multiple threads work together, with each thread only having to search part of it.
-=======
->>>>>>> origin/master
